@@ -3,8 +3,30 @@ To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
 and open the template in the editor.
 */
-/* 
+/*
     Created on : 20-11-2018, 13:12:29
     Author     : Eduardo Straub
 */
 
+.bloque1{
+  background: url("../images/bg.jpeg") no-repeat center;
+  background-size: cover;
+  height: 400px;
+  color: white;
+}
+/*
+p{
+  margin-bottom: 2px;
+  margin-top: 6px;
+  font-family: sans-serif;
+}
+h1{
+  font-family: sans-serif;
+}
+h2{
+  font-family: sans-serif;
+}
+h3{
+  font-family: sans-serif;
+}
+*/
